@@ -1,3 +1,3 @@
 # CSS-388-Counter
 CSS 388 Counter
-![My Image](preview.gif)
+<img src="https://raw.githubusercontent.com/omarwelshazly/CSS-388-Counter/main/preview.gif" width="300">
